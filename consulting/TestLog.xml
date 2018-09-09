@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-05-23T14:01:27</date>
+  <millis>1527109287078</millis>
+  <sequence>1</sequence>
+  <logger>util.LogConfiguratorTest</logger>
+  <level>INFO</level>
+  <class>util.LogRecordTest</class>
+  <method>testToString</method>
+  <thread>1</thread>
+  <message>this is a message</message>
+</record>
+</log>
